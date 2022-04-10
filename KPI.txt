@@ -1,0 +1,40 @@
+1-Indicateurs de performance commerciaux 
+Le nombre d'appels de prospection réalisés ;
+Les opportunités soulevées dans le mois (ou génération de leads qualifiés) ;
+Les rendez-vous de prospection effectués ;
+
+2-Indicateurs de performance pour le service après vente SAV
+Le CSAT pour mesurer la satisfaction client
+Le CES (Customer Effort Score)  ou score d’effort client
+Le Net Promoter Score transactionnel
+
+3-Indicateurs de performance pour la gestion de projet
+Ecart de durée. Cet indicateur permet de mesurer si une tâche est plus longue à accomplir que ce qui avait été initialement prévu. ...
+Ecart de délai. Ce KPI vous montre si votre projet est en avance ou en retard sur le budget ou le temps prévu au départ. ...
+Taux de dépassement.
+
+4-Indicateurs de performance administratifs et financiers
+Écart sur chiffre d’affaires
+Trésorerie prévisionnelle
+Retards de paiement
+
+5-Indicateurs de performance pour les ressources humaines
+Évaluation et évolution de la masse salariale.
+Ventilation et classification des talents et hauts potentiels.
+Pourcentage et montant des primes d’objectifs distribuées.
+
+6-Indicateurs de performance pour le e-commerce
+Taux de conversion
+Taux de retour
+Récurrence d’achat
+
+7-Indicateurs de performance pour les abonnements
+Les revenus mensuels récurrents (MRR)
+Le churn (attrition) ou perte de clientele
+Le coût d’acquisition client (Cost Of Customer Acquisition)
+
+8-Indicateurs de performance pour l’exploitation
+Le cycle d'exploitation des produits
+Les coûts de production ou de sous-traitance
+La capacité de production utilisée ou inutilisée
+
